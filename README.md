@@ -6,22 +6,22 @@ Drug prediction based on seasonal diseases and optimizing medical inventory is a
 Here are some important points to remember on the project "Drug prediction based on seasonal diseases/Optimizing medical inventory":
 
 
-The project aims to develop a machine learning model that predicts the demand for specific drugs based on the seasonal patterns of different diseases
+  1.The project aims to develop a machine learning model that predicts the demand for specific drugs based on the seasonal patterns of different diseases
 
 
-Historical data on disease incidence and drug sales is analyzed to build the predictive model
+  2.Historical data on disease incidence and drug sales is analyzed to build the predictive model
 
 
-The model can assist healthcare providers in anticipating and preparing for seasonal changes in disease incidence
+  3.The model can assist healthcare providers in anticipating and preparing for seasonal changes in disease incidence
 
 
-Optimizing medical inventory can minimize shortages and wastage of drugs while ensuring adequate stock during peak demand periods
+  4.Optimizing medical inventory can minimize shortages and wastage of drugs while ensuring adequate stock during peak demand periods
 
 
-The project can improve the efficiency and effectiveness of medical inventory management
+  5.The project can improve the efficiency and effectiveness of medical inventory management
 
 
-Developing skills in data analysis, machine learning, and healthcare inventory management is an important aspect of the project
+  6.Developing skills in data analysis, machine learning, and healthcare inventory management is an important aspect of the project
 
 
-The project has the potential to benefit patient care and contribute to addressing an important issue in the healthcare industry.
+  7.The project has the potential to benefit patient care and contribute to addressing an important issue in the healthcare industry.
